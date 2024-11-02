@@ -29,3 +29,19 @@ To run this project, you need to have Python installed on your machine. Follow t
    git clone https://github.com/your_username/wikipedia-query-tool.git
    cd wikipedia-query-tool
 
+2. Create a virtual environment (optional but recommended):
+```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+
+3. Install the required packages:
+```bash
+   pip install -r requirements.txt
+
+4. Run the Streamlit application:
+```bash
+   streamlit run app.py
+
+
+
+
