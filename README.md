@@ -1,2 +1,31 @@
 # GPT4ALL-with-Streamlit
 To develop a streamlined ChatGPT-powered application using custom documents on Streamlit, providing users with a responsive and intuitive interface for engaging with tailored, document-specific insights.
+
+# 📚 Web Content Query Tool
+
+A Streamlit application that allows users to query Web content dynamically. Users can enter any Web URL, and the app will scrape the content, process it, and allow them to ask questions based on the extracted information.
+
+## 🎯 Features
+
+- **Dynamic URL Input**: Enter any Web page URL to scrape and query content.
+- **Contextual Questioning**: Ask questions about the page content and get detailed answers.
+- **Document Processing**: Utilizes LangChain to handle and process text efficiently.
+- **Real-Time Interaction**: Engaging user interface with chat-like functionality.
+
+## ⚙️ Technology Stack
+
+- **Frontend**: Streamlit for interactive web applications.
+- **Web Scraping**: BeautifulSoup for HTML parsing.
+- **Natural Language Processing**: LangChain for LLM and embedding management.
+- **Vector Store**: FAISS for efficient similarity search and document retrieval.
+- **LLM**: GPT4All for generating human-like responses.
+
+## 📦 Installation
+
+To run this project, you need to have Python installed on your machine. Follow the steps below to set up the environment:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your_username/wikipedia-query-tool.git
+   cd wikipedia-query-tool
+
