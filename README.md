@@ -34,13 +34,15 @@ To run this project, you need to have Python installed on your machine. Follow t
    python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
-3. Install the required packages:
+3. Create a virtual environment (optional but recommended):
 ```bash
-   pip install -r requirements.txt
+   python -m venv venv
+   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
-4. Run the Streamlit application:
+4. Create a virtual environment (optional but recommended):
 ```bash
-   streamlit run app.py
+   python -m venv venv
+   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 
 
