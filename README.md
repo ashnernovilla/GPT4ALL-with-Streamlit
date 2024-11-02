@@ -26,7 +26,7 @@ To run this project, you need to have Python installed on your machine. Follow t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/wikipedia-query-tool.git
+   git clone https://github.com/ashnernovilla/GPT4ALL-with-Streamlit.git
    cd wikipedia-query-tool
    
 2. Create a virtual environment (optional but recommended):
