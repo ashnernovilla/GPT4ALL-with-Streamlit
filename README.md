@@ -41,11 +41,3 @@ To run this project, you need to have Python installed on your machine. Follow t
 4. Run the Streamlit application:
    ```bash
    streamlit run app.py
-
-
-
-
-
-
-
-
