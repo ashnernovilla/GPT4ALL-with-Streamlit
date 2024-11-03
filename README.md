@@ -3,7 +3,7 @@ To develop a streamlined ChatGPT-powered application using custom documents on S
 
 # 📚 Web Content Query Tool
 
-A Streamlit application that allows users to query Web content dynamically. Users can enter any Web URL, and the app will scrape the content, process it, and allow them to ask questions based on the extracted information.
+A Streamlit application that allows users to query content dynamically. Users can enter any PDF File, and the app will scrape the content, process it, and allow them to ask questions based on the extracted information.
 
 ## 🎯 Features
 
