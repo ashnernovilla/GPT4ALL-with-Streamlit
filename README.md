@@ -15,10 +15,10 @@ A Streamlit application that allows users to query content dynamically. Users ca
 ## ⚙️ Technology Stack
 
 - **Frontend**: Streamlit for interactive web applications.
-- **Web Scraping**: BeautifulSoup for HTML parsing.
+- **PDF Scraping**: PyPDF2 for PDF parsing.
 - **Natural Language Processing**: LangChain for LLM and embedding management.
 - **Vector Store**: FAISS for efficient similarity search and document retrieval.
-- **LLM**: GPT4All for generating human-like responses.
+- **LLM**: OpenAI for generating human-like responses.
 
 ## 📦 Installation
 
